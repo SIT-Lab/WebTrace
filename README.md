@@ -1,6 +1,6 @@
 # WebTrace: An Enhanced System for Remote User Interaction Tracking and Analysis in Web Applications
 
-WebTrace is a web-based tool that tracks, abstracts and analyzes user interactions for usability testing in web applications. WebTrace facilitates lightweight and effective usability testing by simplifying both participation and analysis processes. The tool comprises two main modules:
+WebTrace is a web-based solution that tracks and abstracts user interactions while managing usability testing. WebTrace facilitates lightweight and effective usability testing by simplifying both participation and analysis processes. The tool comprises two main modules:
 
 - **WebTrace Tracker**: A Chrome extension that tracks user interactions, such as mouse clicks and keyboard inputs, during usability testing
 - **WebTrace Dashboard**: A web application that enables testers to manage tests, abstract collected interaction data, and support data analysis.
@@ -10,7 +10,7 @@ This repository serves as an overview of the WebTrace project. For detailed info
 
 ## Modules
 
-### WebTrace Modules
+### WebTrace Tracker
 
 [WebTrace Tracker GitHub Repository](https://github.com/SIT-Lab/WebTrace-Tracker)
 
